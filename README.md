@@ -1,6 +1,6 @@
 ### Hi there 👋
 ***
-- 🔭 I’m currently working as a Freelancer and a part time developer at eftax.co.jp
+- 🔭 I’m currently working as a Freelancer and a software engineer at eftax.co.jp
 - 🌱 I’m currently learning javascript tech and flutter for mobile development
 
 ### 📫 How to reach me:
