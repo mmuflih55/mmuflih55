@@ -1,7 +1,7 @@
 ### Hi there 👋
 ***
 - 🔭 I’m currently working as a Freelancer and a software engineer at eftax.co.jp
-- 🌱 I’m currently learning javascript tech and flutter for mobile development
+- 🌱 I’m currently learning flutter for mobile development
 
 ### 📫 How to reach me:
 ***
@@ -10,3 +10,9 @@
   - [Personal blog](https://mmuflih.com)
 
 ![](https://komarev.com/ghpvc/?username=mmuflih55&color=blue)
+
+<img
+  src="https://render.gitanimals.org/farms/mmuflih55"
+  width="600"
+  height="300"
+/>
