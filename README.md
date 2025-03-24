@@ -1,7 +1,7 @@
 ### Hi there 👋
 ***
-- 🔭 I’m currently working as a Freelancer and a software engineer at eftax.co.jp
-- 🌱 I’m currently learning flutter for mobile development
+- 🔭 I’m currently working as a software engineer at eftax.co.jp
+- 🌱 I’m currently learning flutter for mobile development & AU
 
 ### 📫 How to reach me:
 ***
