@@ -5,7 +5,6 @@
 
 ### 📫 How to reach me:
 ***
-  - [Telegram](https://t.me/m_muflih)
   - [twitter](https://twitter.com/muh_muflih)
   - [Personal blog](https://mmuflih.com)
 
